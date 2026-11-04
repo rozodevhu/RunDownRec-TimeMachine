@@ -31,3 +31,13 @@ OverInk: LINK NOT AVAILABLE
 
 <img src="2016-photo-assets/Screenshot 2026-11-03 201402.png" width="600" alt="2016 Banner">
 <img src="2016-photo-assets/Screenshot 2026-11-02 200250.png" width="600" alt="2016 Banner2">
+
+
+# Project Compatibility:
+2016:
+PCVR, PC/Desktop (Windows 10-11)
+Not available: 
+Linux, Meta (Without sideloading) 
+
+2023:
+PC, PCVR, NOT FULLY WORKING, BUILD NOT OUT YET EITHER
