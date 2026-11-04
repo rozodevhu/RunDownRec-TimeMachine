@@ -28,4 +28,4 @@ OverInk: LINK NOT AVAILABLE
 
 # 2016 Images
 
-![2016 Banner](2016-photo-assets/Screenshot 2026-11-03 201402.png)
+![2016 Banner](<2016-photo-assets/Screenshot 2026-11-03 201402.png>)
