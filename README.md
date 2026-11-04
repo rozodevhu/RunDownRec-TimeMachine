@@ -29,4 +29,4 @@ OverInk: LINK NOT AVAILABLE
 # 2016 Images
 
 
-<img src="<2016-photo-assets/Screenshot 2026-11-03 201402.png" width="600" alt="2016 Banner">
+<img src="2016-photo-assets/Screenshot 2026-11-03 201402.png" width="600" alt="2016 Banner"
